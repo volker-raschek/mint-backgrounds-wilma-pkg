@@ -1,7 +1,7 @@
 pkgbase = mint-backgrounds-wilma
-	pkgdesc = The backgrounds included in Linux Mint 21.3 wilma
+	pkgdesc = The backgrounds included in Linux Mint 22.0 wilma
 	pkgver = 1.0
-	pkgrel = 1
+	pkgrel = 2
 	url = http://packages.linuxmint.com/pool/main/m/mint-backgrounds-wilma
 	arch = any
 	license = Various
