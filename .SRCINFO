@@ -1,0 +1,11 @@
+pkgbase = mint-backgrounds-wilma
+	pkgdesc = The backgrounds included in Linux Mint 21.3 wilma
+	pkgver = 1.0
+	pkgrel = 1
+	url = http://packages.linuxmint.com/pool/main/m/mint-backgrounds-wilma
+	arch = any
+	license = Various
+	source = http://packages.linuxmint.com/pool/main/m/mint-backgrounds-wilma/mint-backgrounds-wilma_1.0.tar.gz
+	sha256sums = ef5a4edc7010d7ada5733c72c89570c22c1795b8f4c8cd6dbfd1509c482a37b5
+
+pkgname = mint-backgrounds-wilma
