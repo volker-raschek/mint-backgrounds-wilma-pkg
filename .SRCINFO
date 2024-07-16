@@ -1,11 +1,11 @@
 pkgbase = mint-backgrounds-wilma
 	pkgdesc = The backgrounds included in Linux Mint 22.0 wilma
-	pkgver = 1.0
-	pkgrel = 2
+	pkgver = 1.1
+	pkgrel = 1
 	url = http://packages.linuxmint.com/pool/main/m/mint-backgrounds-wilma
 	arch = any
 	license = Various
-	source = http://packages.linuxmint.com/pool/main/m/mint-backgrounds-wilma/mint-backgrounds-wilma_1.0.tar.gz
-	sha256sums = ef5a4edc7010d7ada5733c72c89570c22c1795b8f4c8cd6dbfd1509c482a37b5
+	source = http://packages.linuxmint.com/pool/main/m/mint-backgrounds-wilma/mint-backgrounds-wilma_1.1.tar.gz
+	sha256sums = 42dd75974b2c1fe5e988ad894518b9a26ae75809fac026ca74b9bbdc8061b810
 
 pkgname = mint-backgrounds-wilma
